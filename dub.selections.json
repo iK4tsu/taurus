@@ -1,5 +1,7 @@
 {
 	"fileVersion": 1,
 	"versions": {
+		"localimport": "1.3.0",
+		"sumtype": "1.1.1"
 	}
 }
